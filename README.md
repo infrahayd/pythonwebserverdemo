@@ -1,2 +1,2 @@
-#Python Webserver Demo
-This is a simple python webserver I created while learning uvicorn, FastAPI, and python.
+# Python Web Server Demo
+A simple python web server demo I made while learning uvicorn, FastAPI, and python.
